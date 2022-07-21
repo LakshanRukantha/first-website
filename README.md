@@ -1,2 +1,9 @@
-# first-website
-This is my first website and I used HTML, CSS, JavaScript to create this. I created this only using my mobile phone.
+# My First WebSite
+
+### lakshanrukantha.github.io
+
+==> Click <a href="https://lakshanrukantha.github.io">here</a> to browse it.
+
+Last edit on 17/02/2022
+
+<!-- Developed by Lakshan Rukantha -->
